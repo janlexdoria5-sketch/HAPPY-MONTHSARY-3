@@ -185,9 +185,9 @@ body {
 }
 #Guess {
     position: fixed;
-    top: 10vh;
+    top: 20vh;
     left: 10vw;
-    width: 90vw;
+    width: 75vw;
     
     font-size: clamp(1.8rem, 5.5vh, 3rem);
     text-align: center;
@@ -234,7 +234,7 @@ body {
     position: fixed;
     top: 33vh;
     left: 5vw;
-    width: 90vw;
+    width: 85vw;
     height: auto;
 
     display: flex;
